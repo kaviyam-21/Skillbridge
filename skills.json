@@ -1,0 +1,1860 @@
+{
+"skills": [
+        {
+            "skill": "python",
+            "category": "programming languages"
+        },
+        {
+            "skill": "java",
+            "category": "programming languages"
+        },
+        {
+            "skill": "c",
+            "category": "programming languages"
+        },
+        {
+            "skill": "c++",
+            "category": "programming languages"
+        },
+        {
+            "skill": "ruby",
+            "category": "programming languages"
+        },
+        {
+            "skill": "javascript",
+            "category": "programming languages"
+        },
+        {
+            "skill": "html",
+            "category": "programming languages"
+        },
+        {
+            "skill": "css",
+            "category": "programming languages"
+        },
+        {
+            "skill": "php",
+            "category": "programming languages"
+        },
+        { 
+            "skill": "sql",
+            "category": "programming languages"
+        },
+        {
+            "skill": "go",
+            "category": "programming languages"
+        },
+        {
+            "skill": "rust",
+            "category": "programming languages"
+        },
+        {
+            "skill": "swift",
+            "category": "programming languages"
+        },
+        {
+            "skill": "kotlin",
+            "category": "programming languages"
+        },
+        {
+            "skill": "r",
+            "category": "programming languages"
+        },
+        {
+            "skill": "matlab",
+            "category": "programming languages"
+        },
+        {
+            "skill": "typescript",
+            "category": "programming languages"
+        },
+        {
+            "skill": "vhdl",
+            "category": "programming languages"
+        },
+        {
+            "skill": "scala",
+            "category": "programming languages"
+        },
+        {
+            "skill": "perl",
+            "category": "programming languages"
+        },
+        {
+            "skill": "objective-c",
+            "category": "programming languages"
+        },
+        {
+            "skill": "bash",
+            "category": "programming languages"
+        },
+        {
+            "skill": "shell",
+            "category": "programming languages"
+        },
+        {
+            "skill": "lua",
+            "category": "programming languages"
+        },
+        {
+            "skill": "fortran",
+            "category": "programming languages"
+        },
+        {
+            "skill": "delphi",
+            "category": "programming languages"
+        },
+        {
+            "skill": "elixir",
+            "category": "programming languages"
+        },
+        {
+            "skill": "django",
+            "category": "frameworks and libraries"
+        },
+        {
+            "skill": "flask",
+            "category": "frameworks and libraries"
+        },
+        {
+            "skill": "react",
+            "category": "frameworks and libraries"
+        },
+        {
+            "skill": "angular",
+            "category": "frameworks and libraries"
+        },
+        {
+            "skill": "vue",
+            "category": "frameworks and libraries"
+        },
+        {
+            "skill": "spring",
+            "category": "frameworks and libraries"
+        },
+        {
+            "skill": "express",
+            "category": "frameworks and libraries"
+        },
+        {
+            "skill": "node.js",
+            "category": "frameworks and libraries"
+        },
+        {
+            "skill": "tensorflow",
+            "category": "frameworks and libraries"
+        },
+        {
+            "skill": "pytorch",
+            "category": "frameworks and libraries"
+        },
+        {
+            "skill": "keras",
+            "category": "frameworks and libraries"
+        },
+        {
+            "skill": "scikit-learn",
+            "category": "frameworks and libraries"
+        },
+        {
+            "skill": "pandas",
+            "category": "frameworks and libraries"
+        },
+        {
+            "skill": "numpy",
+            "category": "frameworks and libraries"
+        },
+        {
+            "skill": "matplotlib",
+            "category": "frameworks and libraries"
+        },
+        {
+            "skill": "seaborn",
+            "category": "frameworks and libraries"
+        },
+        {
+            "skill": "vue.js",
+            "category": "frameworks and libraries"
+        },
+        {
+            "skill": "bootstrap",
+            "category": "frameworks and libraries"
+        },
+        {
+            "skill": "tailwind",
+            "category": "frameworks and libraries"
+        },
+        {
+            "skill": "react-native",
+            "category": "frameworks and libraries"
+        },
+        {
+            "skill": "ionic",
+            "category": "frameworks and libraries"
+        },
+        {
+            "skill": "flutter",
+            "category": "frameworks and libraries"
+        },
+        {
+            "skill": "laravel",
+            "category": "frameworks and libraries"
+        },
+        {
+            "skill": "symfony",
+            "category": "frameworks and libraries"
+        },
+        {
+            "skill": "zend",
+            "category": "frameworks and libraries"
+        },
+        {
+            "skill": "pytest",
+            "category": "frameworks and libraries"
+        },
+        {
+            "skill": "unittest",
+            "category": "frameworks and libraries"
+        },
+        {
+            "skill": "mocha",
+            "category": "frameworks and libraries"
+        },
+        {
+            "skill": "chai",
+            "category": "frameworks and libraries"
+        },
+        {
+            "skill": "junit",
+            "category": "frameworks and libraries"
+        },
+        {
+            "skill": "angularjs",
+            "category": "frameworks and libraries"
+        },
+        {
+            "skill": "backbone.js",
+            "category": "frameworks and libraries"
+        },
+        {
+            "skill": "data analysis",
+            "category": "data science and analytics"
+        },
+        {
+            "skill": "machine learning",
+            "category": "data science and analytics"
+        },
+        {
+            "skill": "deep learning",
+            "category": "data science and analytics"
+        },
+        {
+            "skill": "computer vision",
+            "category": "data science and analytics"
+        },
+        {
+            "skill": "natural language processing",
+            "category": "data science and analytics"
+        },
+        {
+            "skill": "data mining",
+            "category": "data science and analytics"
+        },
+        {
+            "skill": "data visualization",
+            "category": "data science and analytics"
+        },
+        {
+            "skill": "big data",
+            "category": "data science and analytics"
+        },
+        {
+            "skill": "etl",
+            "category": "data science and analytics"
+        },
+        {
+            "skill": "spark",
+            "category": "data science and analytics"
+        },
+        {
+            "skill": "hadoop",
+            "category": "data science and analytics"
+        },
+        {
+            "skill": "tableau",
+            "category": "data science and analytics"
+        },
+        {
+            "skill": "excel",
+            "category": "data science and analytics"
+        },
+        {
+            "skill": "sas",
+            "category": "data science and analytics"
+        },
+        {
+            "skill": "data wrangling",
+            "category": "data science and analytics"
+        },
+        {
+            "skill": "statistics",
+            "category": "data science and analytics"
+        },
+        {
+            "skill": "bayesian inference",
+            "category": "data science and analytics"
+        },
+        {
+            "skill": "data cleaning",
+            "category": "data science and analytics"
+        },
+        {
+            "skill": "data preprocessing",
+            "category": "data science and analytics"
+        },
+        {
+            "skill": "predictive modeling",
+            "category": "data science and analytics"
+        },
+        {
+            "skill": "regression analysis",
+            "category": "data science and analytics"
+        },
+        {
+            "skill": "classification",
+            "category": "data science and analytics"
+        },
+        {
+            "skill": "clustering",
+            "category": "data science and analytics"
+        },
+        {
+            "skill": "time series analysis",
+            "category": "data science and analytics"
+        },
+        {
+            "skill": "hypothesis testing",
+            "category": "data science and analytics"
+        },
+        {
+            "skill": "a/b testing",
+            "category": "data science and analytics"
+        },
+        {
+            "skill": "feature engineering",
+            "category": "data science and analytics"
+        },
+        {
+            "skill": "model evaluation",
+            "category": "data science and analytics"
+        },
+        {
+            "skill": "python",
+            "category": "data science and analytics"
+        },
+        {
+            "skill": "r",
+            "category": "data science and analytics"
+        },
+        {
+            "skill": "sql",
+            "category": "data science and analytics"
+        },
+        {
+            "skill": "etl",
+            "category": "data science and analytics"
+        },
+        {
+            "skill": "noSQL",
+            "category": "data science and analytics"
+        },
+        {
+            "skill": "database management",
+            "category": "data science and analytics"
+        },
+        {
+            "skill": "bi tools",
+            "category": "data science and analytics"
+        },
+        {
+            "skill": "aws",
+            "category": "cloud platforms and services"
+        },
+        {
+            "skill": "azure",
+            "category": "cloud platforms and services"
+        },
+        {
+            "skill": "google cloud",
+            "category": "cloud platforms and services"
+        },
+        {
+            "skill": "cloud computing",
+            "category": "cloud platforms and services"
+        },
+        {
+            "skill": "docker",
+            "category": "cloud platforms and services"
+        },
+        {
+            "skill": "kubernetes",
+            "category": "cloud platforms and services"
+        },
+        {
+            "skill": "terraform",
+            "category": "cloud platforms and services"
+        },
+        {
+            "skill": "gcp",
+            "category": "cloud platforms and services"
+        },
+        {
+            "skill": "heroku",
+            "category": "cloud platforms and services"
+        },
+        {
+            "skill": "firebase",
+            "category": "cloud platforms and services"
+        },
+        {
+            "skill": "lambda",
+            "category": "cloud platforms and services"
+        },
+        {
+            "skill": "cloud storage",
+            "category": "cloud platforms and services"
+        },
+        {
+            "skill": "cloud security",
+            "category": "cloud platforms and services"
+        },
+        {
+            "skill": "devops",
+            "category": "cloud platforms and services"
+        },
+        {
+            "skill": "jenkins",
+            "category": "cloud platforms and services"
+        },
+        {
+            "skill": "ansible",
+            "category": "cloud platforms and services"
+        },
+        {
+            "skill": "gitlab",
+            "category": "cloud platforms and services"
+        },
+        {
+            "skill": "ci/cd",
+            "category": "cloud platforms and services"
+        },
+        {
+            "skill": "html",
+            "category": "web development"
+        },
+        {
+            "skill": "css",
+            "category": "web development"
+        },
+        {
+            "skill": "javascript",
+            "category": "web development"
+        },
+        {
+            "skill": "react",
+            "category": "web development"
+        },
+        {
+            "skill": "angular",
+            "category": "web development"
+        },
+        {
+            "skill": "node.js",
+            "category": "web development"
+        },
+        {
+            "skill": "web design",
+            "category": "web development"
+        },
+        {
+            "skill": "web development",
+            "category": "web development"
+        },
+        {
+            "skill": "seo",
+            "category": "web development"
+        },
+        {
+            "skill": "html5",
+            "category": "web development"
+        },
+        {
+            "skill": "css3",
+            "category": "web development"
+        },
+        {
+            "skill": "responsive design",
+            "category": "web development"
+        },
+        {
+            "skill": "graphql",
+            "category": "web development"
+        },
+        {
+            "skill": "redux",
+            "category": "web development"
+        },
+        {
+            "skill": "vue.js",
+            "category": "web development"
+        },
+        {
+            "skill": "rest api",
+            "category": "web development"
+        },
+        {
+            "skill": "api development",
+            "category": "web development"
+        },
+        {
+            "skill": "web scraping",
+            "category": "web development"
+        },
+        {
+            "skill": "json",
+            "category": "web development"
+        },
+        {
+            "skill": "ajax",
+            "category": "web development"
+        },
+        {
+            "skill": "mongodb",
+            "category": "web development"
+        },
+        {
+            "skill": "express",
+            "category": "web development"
+        },
+        {
+            "skill": "typescript",
+            "category": "web development"
+        },
+        {
+            "skill": "cms",
+            "category": "web development"
+        },
+        {
+            "skill": "wordpress",
+            "category": "web development"
+        },
+        {
+            "skill": "shopify",
+            "category": "web development"
+        },
+        {
+            "skill": "magento",
+            "category": "web development"
+        },
+        {
+            "skill": "shopify development",
+            "category": "web development"
+        },
+        {
+            "skill": "android",
+            "category": "mobile development"
+        },
+        {
+            "skill": "ios",
+            "category": "mobile development"
+        },
+        {
+            "skill": "react-native",
+            "category": "mobile development"
+        },
+        {
+            "skill": "flutter",
+            "category": "mobile development"
+        },
+        {
+            "skill": "swift",
+            "category": "mobile development"
+        },
+        {
+            "skill": "kotlin",
+            "category": "mobile development"
+        },
+        {
+            "skill": "mobile development",
+            "category": "mobile development"
+        },
+        {
+            "skill": "mobile apps",
+            "category": "mobile development"
+        },
+        {
+            "skill": "mobile UI/UX",
+            "category": "mobile development"
+        },
+        {
+            "skill": "android studio",
+            "category": "mobile development"
+        },
+        {
+            "skill": "xcode",
+            "category": "mobile development"
+        },
+        {
+            "skill": "phonegap",
+            "category": "mobile development"
+        },
+        {
+            "skill": "ionic",
+            "category": "mobile development"
+        },
+        {
+            "skill": "cordova",
+            "category": "mobile development"
+        },
+        {
+            "skill": "mobile testing",
+            "category": "mobile development"
+        },
+        {
+            "skill": "testflight",
+            "category": "mobile development"
+        },
+        {
+            "skill": "app store",
+            "category": "mobile development"
+        },
+        {
+            "skill": "play store",
+            "category": "mobile development"
+        },
+        {
+            "skill": "mysql",
+            "category": "database technologies"
+        },
+        {
+            "skill": "postgresql",
+            "category": "database technologies"
+        },
+        {
+            "skill": "mongodb",
+            "category": "database technologies"
+        },
+        {
+            "skill": "oracle",
+            "category": "database technologies"
+        },
+        {
+            "skill": "sqlite",
+            "category": "database technologies"
+        },
+        {
+            "skill": "sql server",
+            "category": "database technologies"
+        },
+        {
+            "skill": "nosql",
+            "category": "database technologies"
+        },
+        {
+            "skill": "database design",
+            "category": "database technologies"
+        },
+        {
+            "skill": "database administration",
+            "category": "database technologies"
+        },
+        {
+            "skill": "redis",
+            "category": "database technologies"
+        },
+        {
+            "skill": "dynamoDB",
+            "category": "database technologies"
+        },
+        {
+            "skill": "data warehousing",
+            "category": "database technologies"
+        },
+        {
+            "skill": "database tuning",
+            "category": "database technologies"
+        },
+        {
+            "skill": "database optimization",
+            "category": "database technologies"
+        },
+        {
+            "skill": "data integrity",
+            "category": "database technologies"
+        },
+        {
+            "skill": "sql injection",
+            "category": "database technologies"
+        },
+        {
+            "skill": "database migration",
+            "category": "database technologies"
+        },
+        {
+            "skill": "cloud databases",
+            "category": "database technologies"
+        },
+        {
+            "skill": "linux",
+            "category": "operating systems and tools"
+        },
+        {
+            "skill": "windows",
+            "category": "operating systems and tools"
+        },
+        {
+            "skill": "macOS",
+            "category": "operating systems and tools"
+        },
+        {
+            "skill": "ubuntu",
+            "category": "operating systems and tools"
+        },
+        {
+            "skill": "unix",
+            "category": "operating systems and tools"
+        },
+        {
+            "skill": "docker",
+            "category": "operating systems and tools"
+        },
+        {
+            "skill": "kubernetes",
+            "category": "operating systems and tools"
+        },
+        {
+            "skill": "bash",
+            "category": "operating systems and tools"
+        },
+        {
+            "skill": "shell scripting",
+            "category": "operating systems and tools"
+        },
+        {
+            "skill": "ansible",
+            "category": "operating systems and tools"
+        },
+        {
+            "skill": "terraform",
+            "category": "operating systems and tools"
+        },
+        {
+            "skill": "git",
+            "category": "operating systems and tools"
+        },
+        {
+            "skill": "gitlab",
+            "category": "operating systems and tools"
+        },
+        {
+            "skill": "github",
+            "category": "operating systems and tools"
+        },
+        {
+            "skill": "vscode",
+            "category": "operating systems and tools"
+        },
+        {
+            "skill": "sublime text",
+            "category": "operating systems and tools"
+        },
+        {
+            "skill": "vim",
+            "category": "operating systems and tools"
+        },
+        {
+            "skill": "emacs",
+            "category": "operating systems and tools"
+        },
+        {
+            "skill": "apache",
+            "category": "operating systems and tools"
+        },
+        {
+            "skill": "nginx",
+            "category": "operating systems and tools"
+        },
+        {
+            "skill": "server management",
+            "category": "operating systems and tools"
+        },
+        {
+            "skill": "sysadmin",
+            "category": "operating systems and tools"
+        },
+        {
+            "skill": "network administration",
+            "category": "operating systems and tools"
+        },
+        {
+            "skill": "firewall",
+            "category": "operating systems and tools"
+        },
+        {
+            "skill": "network security",
+            "category": "operating systems and tools"
+        },
+        {
+            "skill": "virtualization",
+            "category": "operating systems and tools"
+        },
+        {
+            "skill": "vmware",
+            "category": "operating systems and tools"
+        },
+        {
+            "skill": "hyper-v",
+            "category": "operating systems and tools"
+        },
+        {
+            "skill": "cybersecurity",
+            "category": "cybersecurity"
+        },
+        {
+            "skill": "network security",
+            "category": "cybersecurity"
+        },
+        {
+            "skill": "penetration testing",
+            "category": "cybersecurity"
+        },
+        {
+            "skill": "ethical hacking",
+            "category": "cybersecurity"
+        },
+        {
+            "skill": "incident response",
+            "category": "cybersecurity"
+        },
+        {
+            "skill": "cryptography",
+            "category": "cybersecurity"
+        },
+        {
+            "skill": "firewall management",
+            "category": "cybersecurity"
+        },
+        {
+            "skill": "data encryption",
+            "category": "cybersecurity"
+        },
+        {
+            "skill": "malware analysis",
+            "category": "cybersecurity"
+        },
+        {
+            "skill": "phishing",
+            "category": "cybersecurity"
+        },
+        {
+            "skill": "vulnerability assessment",
+            "category": "cybersecurity"
+        },
+        {
+            "skill": "compliance",
+            "category": "cybersecurity"
+        },
+        {
+            "skill": "iso 27001",
+            "category": "cybersecurity"
+        },
+        {
+            "skill": "pci-dss",
+            "category": "cybersecurity"
+        },
+        {
+            "skill": "security auditing",
+            "category": "cybersecurity"
+        },
+        {
+            "skill": "risk management",
+            "category": "cybersecurity"
+        },
+        {
+            "skill": "endpoint security",
+            "category": "cybersecurity"
+        },
+        {
+            "skill": "cloud security",
+            "category": "cybersecurity"
+        },
+        {
+            "skill": "IDS",
+            "category": "cybersecurity"
+        },
+        {
+            "skill": "IPS",
+            "category": "cybersecurity"
+        },
+        {
+            "skill": "SIEM",
+            "category": "cybersecurity"
+        },
+        {
+            "skill": "forensics",
+            "category": "cybersecurity"
+        },
+        {
+            "skill":"wireshark",
+            "category":"cybersecurity"
+        },
+        {
+            "skill": "scrum",
+            "category": "software development methodologies"
+        },
+        {
+            "skill": "kanban",
+            "category": "software development methodologies"
+        },
+        {
+            "skill": "waterfall",
+            "category": "software development methodologies"
+        },
+        {
+            "skill": "lean",
+            "category": "software development methodologies"
+        },
+        {
+            "skill": "devops",
+            "category": "software development methodologies"
+        },
+        {
+            "skill": "test-driven development",
+            "category": "software development methodologies"
+        },
+        {
+            "skill": "pair programming",
+            "category": "software development methodologies"
+        },
+        {
+            "skill": "continuous integration",
+            "category": "software development methodologies"
+        },
+        {
+            "skill": "continuous delivery",
+            "category": "software development methodologies"
+        },
+        {
+            "skill": "project management",
+            "category": "software development methodologies"
+        },
+        {
+            "skill": "software development lifecycle",
+            "category": "software development methodologies"
+        },
+        {
+            "skill": "sdlc",
+            "category": "software development methodologies"
+        },
+        {
+            "skill": "git",
+            "category": "software development methodologies"
+        },
+        {
+            "skill": "github",
+            "category": "software development methodologies"
+        },
+        {
+            "skill": "jira",
+            "category": "software development methodologies"
+        },
+        {
+            "skill": "business analysis",
+            "category": "business and management"
+        },
+        {
+            "skill": "project management",
+            "category": "business and management"
+        },
+        {
+            "skill": "agile",
+            "category": "business and management"
+        },
+        {
+            "skill": "scrum master",
+            "category": "business and management"
+        },
+        {
+            "skill": "business intelligence",
+            "category": "business and management"
+        },
+        {
+            "skill": "operations management",
+            "category": "business and management"
+        },
+        {
+            "skill": "product management",
+            "category": "business and management"
+        },
+        {
+            "skill": "product development",
+            "category": "business and management"
+        },
+        {
+            "skill": "sales",
+            "category": "business and management"
+        },
+        {
+            "skill": "marketing",
+            "category": "business and management"
+        },
+        {
+            "skill": "digital marketing",
+            "category": "business and management"
+        },
+        {
+            "skill": "content creation",
+            "category": "business and management"
+        },
+        {
+            "skill": "branding",
+            "category": "business and management"
+        },
+        {
+            "skill": "market research",
+            "category": "business and management"
+        },
+        {
+            "skill": "customer service",
+            "category": "business and management"
+        },
+        {
+            "skill": "customer relationship management",
+            "category": "business and management"
+        },
+        {
+            "skill": "communication skills",
+            "category": "business and management"
+        },
+        {
+            "skill": "teamwork",
+            "category": "business and management"
+        },
+        {
+            "skill": "leadership",
+            "category": "business and management"
+        },
+        {
+            "skill": "time management",
+            "category": "business and management"
+        },
+        {
+            "skill": "public speaking",
+            "category": "business and management"
+        },
+        {
+            "skill": "negotiation",
+            "category": "business and management"
+        },
+        {
+            "skill": "conflict resolution",
+            "category": "business and management"
+        },
+        {
+            "skill": "strategic planning",
+            "category": "business and management"
+        },
+        {
+            "skill": "supply chain management",
+            "category": "business and management"
+        },
+        {
+            "skill": "accounting",
+            "category": "business and management"
+        },
+        {
+            "skill": "financial analysis",
+            "category": "business and management"
+        },
+        {
+            "skill": "excel",
+            "category": "business and management"
+        },
+        {
+            "skill": "powerpoint",
+            "category": "business and management"
+        },
+        {
+            "skill": "word",
+            "category": "business and management"
+        },
+        {
+            "skill": "microsoft office",
+            "category": "business and management"
+        },
+        {
+            "skill": "project management tools",
+            "category": "business and management"
+        },
+        {
+            "skill": "business strategy",
+            "category": "business and management"
+        },
+        {
+            "skill": "communication",
+            "category": "soft skills"
+        },
+        {
+            "skill": "teamwork",
+            "category": "soft skills"
+        },
+        {
+            "skill": "problem-solving",
+            "category": "soft skills"
+        },
+        {
+            "skill": "leadership",
+            "category": "soft skills"
+        },
+        {
+            "skill": "critical thinking",
+            "category": "soft skills"
+        },
+        {
+            "skill": "collaboration",
+            "category": "soft skills"
+        },
+        {
+            "skill": "adaptability",
+            "category": "soft skills"
+        },
+        {
+            "skill": "time management",
+            "category": "soft skills"
+        },
+        {
+            "skill": "negotiation",
+            "category": "soft skills"
+        },
+        {
+            "skill": "presentation skills",
+            "category": "soft skills"
+        },
+        {
+            "skill": "creativity",
+            "category": "soft skills"
+        },
+        {
+            "skill": "work ethic",
+            "category": "soft skills"
+        },
+        {
+            "skill": "empathy",
+            "category": "soft skills"
+        },
+        {
+            "skill": "attention to detail",
+            "category": "soft skills"
+        },
+        {
+            "skill": "emotional intelligence",
+            "category": "soft skills"
+        },
+        {
+            "skill": "conflict resolution",
+            "category": "soft skills"
+        },
+        {
+            "skill": "active listening",
+            "category": "soft skills"
+        },
+        {
+            "skill": "customer focus",
+            "category": "soft skills"
+        },
+        {
+            "skill": "basket weaving",
+            "category": "handicrafts"
+        },
+        {
+            "skill": "pottery",
+            "category": "handicrafts"
+        },
+        {
+            "skill": "ceramics",
+            "category": "handicrafts"
+        },
+        {
+            "skill": "woodworking",
+            "category": "handicrafts"
+        },
+        {
+            "skill": "leathercraft",
+            "category": "handicrafts"
+        },
+        {
+            "skill": "metalworking",
+            "category": "handicrafts"
+        },
+        {
+            "skill": "jewelry making",
+            "category": "handicrafts"
+        },
+        {
+            "skill": "glassblowing",
+            "category": "handicrafts"
+        },
+        {
+            "skill": "embroidery",
+            "category": "handicrafts"
+        },
+        {
+            "skill": "knitting",
+            "category": "handicrafts"
+        },
+        {
+            "skill": "sewing",
+            "category": "handicrafts"
+        },
+        {
+            "skill": "crochet",
+            "category": "handicrafts"
+        },
+        {
+            "skill": "quilting",
+            "category": "handicrafts"
+        },
+        {
+            "skill": "stained glass",
+            "category": "handicrafts"
+        },
+        {
+            "skill": "beadwork",
+            "category": "handicrafts"
+        },
+        {
+            "skill": "painting",
+            "category": "handicrafts"
+        },
+        {
+            "skill": "drawing",
+            "category": "handicrafts"
+        },
+        {
+            "skill": "sculpting",
+            "category": "handicrafts"
+        },
+        {
+            "skill": "calligraphy",
+            "category": "handicrafts"
+        },
+        {
+            "skill": "scrapbooking",
+            "category": "handicrafts"
+        },
+        {
+            "skill": "printmaking",
+            "category": "handicrafts"
+        },
+        {
+            "skill": "textile design",
+            "category": "handicrafts"
+        },
+        {
+            "skill": "upholstery",
+            "category": "handicrafts"
+        },
+        {
+            "skill": "furniture making",
+            "category": "handicrafts"
+        },
+        {
+            "skill": "candlemaking",
+            "category": "handicrafts"
+        },
+        {
+            "skill": "soap making",
+            "category": "handicrafts"
+        },
+        {
+            "skill": "crop management",
+            "category": "agriculture"
+        },
+        {
+            "skill": "irrigation systems",
+            "category": "agriculture"
+        },
+        {
+            "skill": "gardening",
+            "category": "agriculture"
+        },
+        {
+            "skill": "horticulture",
+            "category": "agriculture"
+        },
+        {
+            "skill": "fruit picking",
+            "category": "agriculture"
+        },
+        {
+            "skill": "vegetable harvesting",
+            "category": "agriculture"
+        },
+        {
+            "skill": "greenhouse management",
+            "category": "agriculture"
+        },
+        {
+            "skill": "aquaponics",
+            "category": "agriculture"
+        },
+        {
+            "skill": "beekeeping",
+            "category": "agriculture"
+        },
+        {
+            "skill": "plant care",
+            "category": "agriculture"
+        },
+        {
+            "skill": "land management",
+            "category": "agriculture"
+        },
+        {
+            "skill": "landscaping",
+            "category": "agriculture"
+        },
+        {
+            "skill": "composting",
+            "category": "agriculture"
+        },
+        {
+            "skill": "agricultural machinery operation",
+            "category": "agriculture"
+        },
+        {
+            "skill": "poultry farming",
+            "category": "agriculture"
+        },
+        {
+            "skill": "livestock management",
+            "category": "agriculture"
+        },
+        {
+            "skill": "veterinary care",
+            "category": "agriculture"
+        },
+        {
+            "skill": "farming equipment maintenance",
+            "category": "agriculture"
+        },
+        {
+            "skill": "dairy farming",
+            "category": "agriculture"
+        },
+        {
+            "skill": "fishing",
+            "category": "agriculture"
+        },
+        {
+            "skill": "aquaculture",
+            "category": "agriculture"
+        },
+        {
+            "skill": "childcare",
+            "category": "home and domestic"
+        },
+        {
+            "skill": "elderly care",
+            "category": "home and domestic"
+        },
+        {
+            "skill": "home cleaning",
+            "category": "home and domestic"
+        },
+        {
+            "skill": "housekeeping",
+            "category": "home and domestic"
+        },
+        {
+            "skill": "laundry",
+            "category": "home and domestic"
+        },
+        {
+            "skill": "cooking",
+            "category": "home and domestic"
+        },
+        {
+            "skill": "baking",
+            "category": "home and domestic"
+        },
+        {
+            "skill": "meal planning",
+            "category": "home and domestic"
+        },
+        {
+            "skill": "dietary planning",
+            "category": "home and domestic"
+        },
+        {
+            "skill": "gardening",
+            "category": "home and domestic"
+        },
+        {
+            "skill": "household maintenance",
+            "category": "home and domestic"
+        },
+        {
+            "skill": "plumbing",
+            "category": "home and domestic"
+        },
+        {
+            "skill": "septic tank cleaning",
+            "category": "home and domestic"
+        },
+        {
+            "skill": "drain cleaning",
+            "category": "home and domestic"
+        },
+        {
+            "skill": "carpet cleaning",
+            "category": "home and domestic"
+        },
+        {
+            "skill": "window cleaning",
+            "category": "home and domestic"
+        },
+        {
+            "skill": "recycling",
+            "category": "home and domestic"
+        },
+        {
+            "skill": "furniture restoration",
+            "category": "home and domestic"
+        },
+        {
+            "skill": "landscaping",
+            "category": "home and domestic"
+        },
+        {
+            "skill": "animal care",
+            "category": "home and domestic"
+        },
+        {
+            "skill": "pet sitting",
+            "category": "home and domestic"
+        },
+        {
+            "skill": "house sitting",
+            "category": "home and domestic"
+        },
+        {
+            "skill": "ironing",
+            "category": "home and domestic"
+        },
+        {
+            "skill": "dishwashing",
+            "category": "home and domestic"
+        },
+        {
+            "skill": "carpentry",
+            "category": "construction"
+        },
+        {
+            "skill": "bricklaying",
+            "category": "construction"
+        },
+        {
+            "skill": "plumbing",
+            "category": "construction"
+        },
+        {
+            "skill": "electrician",
+            "category": "construction"
+        },
+        {
+            "skill": "construction worker",
+            "category": "construction"
+        },
+        {
+            "skill": "concrete pouring",
+            "category": "construction"
+        },
+        {
+            "skill": "roofing",
+            "category": "construction"
+        },
+        {
+            "skill": "drywall",
+            "category": "construction"
+        },
+        {
+            "skill": "painting",
+            "category": "construction"
+        },
+        {
+            "skill": "tiling",
+            "category": "construction"
+        },
+        {
+            "skill": "flooring",
+            "category": "construction"
+        },
+        {
+            "skill": "masonry",
+            "category": "construction"
+        },
+        {
+            "skill": "landscaping",
+            "category": "construction"
+        },
+        {
+            "skill": "building design",
+            "category": "construction"
+        },
+        {
+            "skill": "surveying",
+            "category": "construction"
+        },
+        {
+            "skill": "scaffolding",
+            "category": "construction"
+        },
+        {
+            "skill": "sheetrock installation",
+            "category": "construction"
+        },
+        {
+            "skill": "renovations",
+            "category": "construction"
+        },
+        {
+            "skill": "house framing",
+            "category": "construction"
+        },
+        {
+            "skill": "renovation design",
+            "category": "construction"
+        },
+        {
+            "skill": "window installation",
+            "category": "construction"
+        },
+        {
+            "skill": "door installation",
+            "category": "construction"
+        },
+        {
+            "skill": "kitchen installation",
+            "category": "construction"
+        },
+        {
+            "skill": "bathroom installation",
+            "category": "construction"
+        },
+        {
+            "skill": "fence building",
+            "category": "construction"
+        },
+        {
+            "skill": "garage construction",
+            "category": "construction"
+        },
+        {
+            "skill": "remodeling",
+            "category": "construction"
+        },
+        {
+            "skill": "interior decorating",
+            "category": "construction"
+        },
+        {
+            "skill": "waterproofing",
+            "category": "construction"
+        },
+        {
+            "skill": "insulation",
+            "category": "construction"
+        },
+        {
+            "skill": "stone masonry",
+            "category": "construction"
+        },
+        {
+            "skill": "plastering",
+            "category": "construction"
+        },
+        {
+            "skill": "welding",
+            "category": "construction"
+        },
+        {
+            "skill": "hardwood flooring",
+            "category": "construction"
+        },
+        {
+            "skill": "drywall installation",
+            "category": "construction"
+        },
+        {
+            "skill": "truck driving",
+            "category": "transportation"
+        },
+        {
+            "skill": "delivery driving",
+            "category": "transportation"
+        },
+        {
+            "skill": "van driving",
+            "category": "transportation"
+        },
+        {
+            "skill": "forklift operation",
+            "category": "transportation"
+        },
+        {
+            "skill": "warehouse management",
+            "category": "transportation"
+        },
+        {
+            "skill": "inventory management",
+            "category": "transportation"
+        },
+        {
+            "skill": "logistics planning",
+            "category": "transportation"
+        },
+        {
+            "skill": "cargo handling",
+            "category": "transportation"
+        },
+        {
+            "skill": "shipping and receiving",
+            "category": "transportation"
+        },
+        {
+            "skill": "loading and unloading",
+            "category": "transportation"
+        },
+        {
+            "skill": "packaging",
+            "category": "transportation"
+        },
+        {
+            "skill": "supply chain management",
+            "category": "transportation"
+        },
+        {
+            "skill": "barcoding",
+            "category": "transportation"
+        },
+        {
+            "skill": "sorting",
+            "category": "transportation"
+        },
+        {
+            "skill": "cargo delivery",
+            "category": "transportation"
+        },
+        {
+            "skill": "route planning",
+            "category": "transportation"
+        },
+        {
+            "skill": "transportation coordination",
+            "category": "transportation"
+        },
+        {
+            "skill": "moving services",
+            "category": "transportation"
+        },
+        {
+            "skill": "driving license",
+            "category": "transportation"
+        },
+        {
+            "skill": "fleet management",
+            "category": "transportation"
+        },
+        {
+            "skill": "road safety",
+            "category": "transportation"
+        },
+        {
+            "skill": "car maintenance",
+            "category": "transportation"
+        },
+        {
+            "skill": "vehicle repair",
+            "category": "transportation"
+        },
+        {
+            "skill": "truck loading",
+            "category": "transportation"
+        },
+        {
+            "skill": "shipping coordination",
+            "category": "transportation"
+        },
+        {
+            "skill": "customs brokerage",
+            "category": "transportation"
+        },
+        {
+            "skill": "public speaking",
+            "category": "miscellaneous skills"
+        },
+        {
+            "skill": "content writing",
+            "category": "miscellaneous skills"
+        },
+        {
+            "skill": "blogging",
+            "category": "miscellaneous skills"
+        },
+        {
+            "skill": "data entry",
+            "category": "miscellaneous skills"
+        },
+        {
+            "skill": "testing",
+            "category": "miscellaneous skills"
+        },
+        {
+            "skill": "quality assurance",
+            "category": "miscellaneous skills"
+        },
+        {
+            "skill": "automation",
+            "category": "miscellaneous skills"
+        },
+        {
+            "skill": "debugging",
+            "category": "miscellaneous skills"
+        },
+        {
+            "skill": "project coordination",
+            "category": "miscellaneous skills"
+        },
+        {
+            "skill": "stakeholder management",
+            "category": "miscellaneous skills"
+        },
+        {
+            "skill": "documentation",
+            "category": "miscellaneous skills"
+        },
+        {
+            "skill": "product testing",
+            "category": "miscellaneous skills"
+        },
+        {
+            "skill": "video editing",
+            "category": "miscellaneous skills"
+        },
+        {
+            "skill": "graphic design",
+            "category": "miscellaneous skills"
+        },
+        {
+            "skill": "motion graphics",
+            "category": "miscellaneous skills"
+        },
+        {
+            "skill": "ui/ux design",
+            "category": "miscellaneous skills"
+        },
+        {
+            "skill": "3d modeling",
+            "category": "miscellaneous skills"
+        },
+        {
+            "skill": "animation",
+            "category": "miscellaneous skills"
+        },
+        {
+            "skill": "game development",
+            "category": "miscellaneous skills"
+        },
+        {
+            "skill": "virtual reality",
+            "category": "miscellaneous skills"
+        },
+        {
+            "skill": "augmented reality",
+            "category": "miscellaneous skills"
+        },
+        {
+            "skill": "blockchain",
+            "category": "miscellaneous skills"
+        },
+        {
+            "skill": "cryptocurrency",
+            "category": "miscellaneous skills"
+        },
+        {
+            "skill": "iot",
+            "category": "miscellaneous skills"
+        },
+        {
+            "skill": "arduino",
+            "category": "miscellaneous skills"
+        },
+        {
+            "skill": "raspberry pi",
+            "category": "miscellaneous skills"
+        },
+        {
+            "skill": "3d printing",
+            "category": "miscellaneous skills"
+        },
+        {
+            "skill": "business analysis",
+            "category": "miscellaneous skills"
+        },
+        {
+            "skill": "user research",
+            "category": "miscellaneous skills"
+        },
+        {
+            "skill": "wireframing",
+            "category": "miscellaneous skills"
+        },
+        {
+            "skill": "prototyping",
+            "category": "miscellaneous skills"
+        },
+        {
+            "skill": "mockups",
+            "category": "miscellaneous skills"
+        },
+        {
+            "skill": "lean ux",
+            "category": "miscellaneous skills"
+        },
+        {
+            "skill": "gamification",
+            "category": "miscellaneous skills"
+        },
+        {
+            "skill": "business strategy",
+            "category": "miscellaneous skills"
+        },
+        {
+            "skill": "customer success",
+            "category": "miscellaneous skills"
+        },
+        {
+            "skill": "research",
+            "category": "miscellaneous skills"
+        },
+        {
+            "skill": "survey analysis",
+            "category": "miscellaneous skills"
+        },
+        {
+            "skill": "sponsorship management",
+            "category": "miscellaneous skills"
+        }
+    ]
+}
